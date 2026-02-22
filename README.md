@@ -1,5 +1,7 @@
 # smart-business-manager
-##Description
+
+## Description
+
 This is a Django backend project with security setup, for managing business accounts, products, and users.
 
 ## Installation
