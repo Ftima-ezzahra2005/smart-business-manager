@@ -35,4 +35,4 @@ This is a Django backend project with security setup, for managing business acco
 
 - Ftima-ezzahra ZAGHLOUL (Backend & Security)
 - Hasna KHAYARI (Backend & Security)
-- Nacim OUALLA (Frontend & BD)
+- Nacim OUALLA (Frontend)
