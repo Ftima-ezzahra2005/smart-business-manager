@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Database
+db.sqlite3
+backup_*.sqlite3
+backup_db_final.sqlite3
+backup_db.sqlite3
+backup_final.sqlite3
+
+# Virtual env
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
